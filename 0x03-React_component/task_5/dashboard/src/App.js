@@ -17,7 +17,6 @@ function App() {
         >
           Learn React
         </a>
-        <h1> School Dashboard</h1>
       </header>
     </div>
   );
