@@ -1,12 +1,12 @@
-## 0x00-Webpack
+# AlX React Props
 
-###
----
-- How to setup Webpack for a basic project
-- Entry points; and loaders
-- How to add plugins
-- How to setup a dev server
-
+### Contents
+- How to create react components using functions
+- how to reuse Components
+- How to pass properties to components
+- How to use fragments
+- When to use a key to improve a loop's performance
+  
 
 ***
 
@@ -16,6 +16,6 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-hbapte-green)](https://www.linktr.ee/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)<br>
-> Date : April 17,2023
+> Date : April 21,2023
 
 ***
