@@ -1,13 +1,16 @@
-# AlX React Props
+# AlX React State
 
-## Contents
+### Contents
 
-- How to create react components using functions
-- how to reuse Components
-- How to pass properties to components
-- How to use fragments
-- When to use a key to improve a loop's performance
-  
+-  What the state of a component or a container is
+-  The lifecycle of a component
+- How to modify a state and execute code in the right order
+- What a controlled component is
+- How to use Forms in React
+- How to reuse smaller components, keep them pure, and lift  its state to principal containers
+- The use of a React Hook and how to create one
+- How to test State changes with Enzyme
+
 
 ***
 
@@ -17,6 +20,6 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hbapte)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-hbapte-green)](https://www.linktr.ee/hbapte)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ijbapte@gmail.com)<br>
-> Date : April 21,2023
+> Date : May 07,2023
 
 ***
