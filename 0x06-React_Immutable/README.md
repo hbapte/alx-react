@@ -10,7 +10,7 @@
 
 ***
 
-> Author: Ishimwe Jean Baptiste 
+> Author: Ishimwe Jean Baptiste <br/>
 
 [![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://hbapte.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hbapte)
